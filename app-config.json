@@ -1,0 +1,21 @@
+{
+  "app": {
+    "title": "Total Club Management - VJD",
+    "textColor": {
+      "light": "black",
+      "dark": "white"
+    },
+    "statusBar": "transparent",
+    "actionBarHidden": true,
+    "hideIOSSafeAreaBottom": true,
+    "hideAndroidBottomNavigationBar": false
+  },
+  "permissions": {
+    "scope.userInfo": {
+      "reason": "Sử dụng thông tin người dùng để đăng nhập và hiển thị trên ứng dụng"
+    }
+  },
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": []
+}

@@ -1,0 +1,104 @@
+{
+  "pages": [
+    {
+      "path": "pages/index",
+      "name": "Trang chủ"
+    },
+    {
+      "path": "pages/map",
+      "name": "Bản đồ"
+    },
+    {
+      "path": "pages/discovery",
+      "name": "Khám phá"
+    },
+    {
+      "path": "pages/featured",
+      "name": "Nổi bật"
+    },
+    {
+      "path": "pages/user/profile",
+      "name": "Tài khoản"
+    },
+    {
+      "path": "pages/login",
+      "name": "Đăng nhập"
+    },
+    {
+      "path": "pages/admin-login",
+      "name": "Đăng nhập Admin"
+    },
+    {
+      "path": "pages/admin/user-list",
+      "name": "Quản lý người dùng"
+    },
+    {
+      "path": "pages/admin/user-detail",
+      "name": "Chi tiết người dùng"
+    },
+    {
+      "path": "pages/packages/index",
+      "name": "Gói tập & Dịch vụ"
+    },
+    {
+      "path": "pages/packages/detail",
+      "name": "Chi tiết gói tập"
+    },
+    {
+      "path": "pages/booking/index",
+      "name": "Đặt sân"
+    },
+    {
+      "path": "pages/court/index",
+      "name": "Inside the Court"
+    },
+    {
+      "path": "pages/community-court/index",
+      "name": "Community Court"
+    },
+    {
+      "path": "pages/create-match/index",
+      "name": "Create Match"
+    },
+    {
+      "path": "pages/create-tournament/index",
+      "name": "Create Tournament"
+    },
+    {
+      "path": "pages/admin/revenue/index",
+      "name": "Báo cáo doanh thu"
+    },
+    {
+      "path": "pages/admin/notifications/send",
+      "name": "Gửi thông báo"
+    },
+    {
+      "path": "pages/notifications/index",
+      "name": "Thông báo"
+    },
+    {
+      "path": "pages/auth/face-register",
+      "name": "Đăng ký FaceID"
+    },
+    {
+      "path": "pages/auth/face-login",
+      "name": "Đăng nhập FaceID"
+    },
+    {
+      "path": "pages/user/profile",
+      "name": "Hồ sơ cá nhân"
+    },
+    {
+      "path": "pages/admin/dashboard",
+      "name": "Admin Dashboard"
+    },
+    {
+      "path": "pages/admin/packages/list",
+      "name": "Quản lý gói tập"
+    },
+    {
+      "path": "pages/admin/packages/edit",
+      "name": "Chỉnh sửa gói tập"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+.page {
+  padding: 16px 16px 96px 16px;
+  background-color: #FFFFFF;
+  min-height: 100vh;
+}
+
+:root {
+  --color-primary: #283b91;
+  --color-secondary: #d32829;
+  --color-accent: #d32829;
+  --color-background: #FFFFFF;
+}
+
+/* Design System Styles */
+
+/* Card bo góc + Shadow nhẹ */
+.card {
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  background-color: white;
+  padding: 16px;
+}
+
+/* Icon tròn */
+.icon-rounded {
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/* Button nổi */
+.btn-raised {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: all 0.2s;
+}
+
+.btn-raised:active {
+  transform: translateY(1px);
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+/* Badge màu */
+.badge {
+  padding: 4px 8px;
+  border-radius: 9999px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.badge-date {
+  background-color: #283b91; /* Primary */
+  color: white;
+}
+
+.badge-event {
+  background-color: #d32829; /* Secondary */
+  color: white;
+}
+
+.badge-promo {
+  background-color: #d32829; /* Accent */
+  color: white;
+}
+
+.section-container {
+  padding: 16px;
+  background: #ffffff;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+
+.zaui-list-item {
+  cursor: pointer;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

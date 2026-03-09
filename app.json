@@ -1,0 +1,7 @@
+{
+  "globalConfig": {
+    "title": "App QL CLB",
+    "statusBar": "transparent",
+    "actionBarHidden": true
+  }
+}
